@@ -1,0 +1,10 @@
+Flask==2.3.2
+Pandas==1.5.3
+Matplotlib==3.7.1
+
+
+#Instructions:
+#Place this file in the root directory of your project.
+#When users clone the repository, they can install all dependencies by running:
+bash
+pip3 install -r requirements.txt
