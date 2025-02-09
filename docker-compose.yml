@@ -1,0 +1,16 @@
+version: '3.8'
+services:
+  cybersim_snort:
+    build: .
+    container_name: cybersim_snort
+    volumes:
+      - ./configs/snort.conf:/etc/snort/snort.conf
+      - ./logs:/var/log/snort
+    ports:
+      - "8080:8080"
+    networks:
+      - cybersim_net
+
+networks:
+  cybersim_net:
+    driver: bridge
