@@ -15,7 +15,7 @@ Ensure that the `python3-venv` and required Python packages are installed.
 Follow the guidelines in `CONTRIBUTING.md`.
 
 ## 5. Where can I get help with setup issues?
-Refer to the setup documentation or create an issue on the [GitHub repository](https://github.com/yourusername/yourrepo/issues).
+Refer to the setup documentation or create an issue on the [GitHub repository](https://github.com/Zaker-07/yourrepo/issues).
 
 ## 6. How do I report a security vulnerability?
 Contact the project maintainers via GitHub Issues or email as mentioned in `SECURITY.md`.
