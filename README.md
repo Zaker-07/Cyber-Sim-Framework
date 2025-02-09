@@ -69,4 +69,4 @@ MIT License
 Feel free to fork the project and submit pull requests. Your contributions are welcome!
 
 📧 Contact
-If you have any questions or suggestions, feel free to reach out at [your_email@example.com].
+If you have any questions or suggestions, feel free to reach out at [syedzaker1007@gmail.com].
